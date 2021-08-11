@@ -26,3 +26,4 @@
 
   - [https://www.getambassador.io/docs/edge-stack/latest/tutorials/getting-started/](https://www.getambassador.io/docs/edge-stack/latest/tutorials/getting-started/)
     
+    ![img4](https://raw.githubusercontent.com/Damans227/edge-stack-argoCD/main/assets/img/Screen%20Shot%202021-08-10%20at%207.37.02%20PM.png)
